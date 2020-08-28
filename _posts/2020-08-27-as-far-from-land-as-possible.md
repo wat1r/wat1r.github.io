@@ -8,11 +8,9 @@ keywords: 算法, 图算法, DFS, BFS
 
 ## 图问题之地图分析[Apis Cerana]
 
+![Apis Cerana](/images/posts/algorithm/dfs_bfs/map/bumblebee-151708_640.png)
 
-
-<img src="/images/posts/algorithm/dfs_bfs/map/bumblebee-151708_640.png" width="80%" alt="" />
-
-
+![客户程序调用 COM 库创建组件对象的顺序图](/images/posts/com/clientcallcom.png)
 
 ### 0.2.BFS模板
 
