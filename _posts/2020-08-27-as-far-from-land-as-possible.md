@@ -16,7 +16,7 @@ keywords: 算法, 图算法, DFS, BFS
 
 ### 0.2.BFS模板
 
-```python
+```
 def bfs(){
     q.push(head);//一般为q这种优先队列来处理bfs问题
     level;//记录层数
@@ -42,17 +42,17 @@ def bfs(){
 
 ### 方法1：BFS（记录层数）
 
-- 需要做一次额外判断，当$grid$全是陆地或者全是海洋时，返回-1
-- $bfs$的循环要找到海洋的点的坐标
+- 需要做一次额外判断，当`grid`全是陆地或者全是海洋时，返回-1
+- `bfs`的循环要找到海洋的点的坐标
 - 初始化时有多个出发源点，本题是为陆地的坐标点
 
-#### 如下图的$case$
+#### 如下图的`case`
 
 
 
-- 初始化的$queue$装入的是陆地（也就是值为1）的坐标，
+- 初始化的`queue`装入的是陆地（也就是值为1）的坐标，
 
-```java
+```
 public int maxDistance(int[][] grid) {
         if (grid == null || grid.length == 0) return 0;
         int m = grid.length, n = grid[0].length;
@@ -86,9 +86,9 @@ public int maxDistance(int[][] grid) {
 
 ### 方法2：BFS（不记录层数）
 
-- 记录最大值，原地修改$grid$
+- 记录最大值，原地修改`grid`
 
-```java
+```
 public int maxDistance(int[][] grid) {
         if (grid == null || grid.length == 0) return 0;
         int m = grid.length, n = grid[0].length;
