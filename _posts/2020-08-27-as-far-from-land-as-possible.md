@@ -8,11 +8,11 @@ keywords: 算法, 图算法, DFS, BFS
 
 ## 图问题之地图分析[Apis Cerana]
 
-![bumblebee-151708_640](D:\Dev\SrcCode\geek-algorithm-leetcode\src\main\leetcode_manuscripts\dfs_bfs\map\图问题之地图分析[Apis Cerana].assets\bumblebee-151708_640.png)
 
 
 
-![image-20200826100336963](D:\Dev\SrcCode\geek-algorithm-leetcode\src\main\leetcode_manuscripts\dfs_bfs\map\图问题之地图分析[Apis Cerana].assets\image-20200826100336963.png)
+
+
 
 ### 0.2.BFS模板
 
@@ -48,7 +48,7 @@ def bfs(){
 
 #### 如下图的$case$
 
-![image-20200826093500697](D:\Dev\SrcCode\geek-algorithm-leetcode\src\main\leetcode_manuscripts\dfs_bfs\map\图问题之地图分析[Apis Cerana].assets\image-20200826093500697.png)
+
 
 - 初始化的$queue$装入的是陆地（也就是值为1）的坐标，
 
