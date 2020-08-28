@@ -64,7 +64,6 @@ public int maxDistance(int[][] grid) {
         }
         //全为0或者全为1的时候返回-1
         if (queue.isEmpty() || queue.size() == m * n) return -1;
-        int[][] dirs = new int[][]{{0, -1}, {-1, 0}, {0, 1}, {1, 0}};
         int level = -1;
         while (!queue.isEmpty()) {
             int size = queue.size();
@@ -100,7 +99,6 @@ public int maxDistance(int[][] grid) {
         }
         //全为0或者全为1的时候返回-1
         if (queue.isEmpty() || queue.size() == m * n) return -1;
-        int[][] dirs = new int[][]{{0, -1}, {-1, 0}, {0, 1}, {1, 0}};
         int res = -1;
         while (!queue.isEmpty()) {
             int size = queue.size();
