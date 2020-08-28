@@ -52,7 +52,7 @@ def bfs(){
 
 - 初始化的`queue`装入的是陆地（也就是值为1）的坐标，
 
-```
+```java
 public int maxDistance(int[][] grid) {
         if (grid == null || grid.length == 0) return 0;
         int m = grid.length, n = grid[0].length;
@@ -87,7 +87,7 @@ public int maxDistance(int[][] grid) {
 
 - 记录最大值，原地修改`grid`
 
-```
+```java
 public int maxDistance(int[][] grid) {
         if (grid == null || grid.length == 0) return 0;
         int m = grid.length, n = grid[0].length;
