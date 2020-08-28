@@ -10,7 +10,9 @@ keywords: 算法, 图算法, DFS, BFS
 
 ![Apis Cerana](/images/posts/algorithm/dfs_bfs/map/bumblebee-151708_640.png)
 
-![客户程序调用 COM 库创建组件对象的顺序图](/images/posts/com/clientcallcom.png)
+
+
+![image-20200826100336963](/images/posts/algorithm/dfs_bfs/map/image-20200826100336963.png)
 
 ### 0.2.BFS模板
 
@@ -46,7 +48,7 @@ def bfs(){
 
 #### 如下图的`case`
 
-
+![image-20200826093500697](/images/posts/algorithm/dfs_bfs/map/image-20200826093500697.png)
 
 - 初始化的`queue`装入的是陆地（也就是值为1）的坐标，
 
