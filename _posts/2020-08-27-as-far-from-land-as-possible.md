@@ -16,7 +16,7 @@ keywords: 算法, 图算法, DFS, BFS
 
 ### 0.2.BFS模板
 
-```
+```pyhton
 def bfs(){
     q.push(head);//一般为q这种优先队列来处理bfs问题
     level;//记录层数
@@ -64,6 +64,7 @@ public int maxDistance(int[][] grid) {
         }
         //全为0或者全为1的时候返回-1
         if (queue.isEmpty() || queue.size() == m * n) return -1;
+        int[][] dirs = {{0, -1}, {-1, 0}, {0, 1}, {1, 0}};        
         int level = -1;
         while (!queue.isEmpty()) {
             int size = queue.size();
