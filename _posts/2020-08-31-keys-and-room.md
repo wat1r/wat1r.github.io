@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DFS_BFS之钥匙和房间[Grampus]
-categories: Algorithm
+categories: BFS_DFS
 description: DFS_BFS之钥匙和房间[Grampus]
 keywords: 算法, DFS, BFS
 ---
@@ -20,8 +20,8 @@ keywords: 算法, DFS, BFS
 
 ### 方法1:BFS
 
-- 利用$set$记录被访问的房间的个数，如果刚好等于所有被访问的房间，为$true$，否则为$false$
-- 当房间被访问过，就不再添加房间进$set$，初始化时，将$0$号房间加入到$set$中
+- 利用`set`记录被访问的房间的个数，如果刚好等于所有被访问的房间，为`true`，否则为`false`
+- 当房间被访问过，就不再添加房间进`set`，初始化时，将`0`号房间加入到`set`中
 
 ```java
     public boolean canVisitAllRooms(List<List<Integer>> rooms) {
@@ -79,9 +79,9 @@ keywords: 算法, DFS, BFS
 
 ### 方法2:DFS
 
-- $dfs$ 的三个参数：$rooms$ 房间，$idx$ 当前房间的索引号，$visited$ 被访问的房间列表
+- `dfs` 的三个参数：`rooms` 房间，`idx` 当前房间的索引号，`visited` 被访问的房间列表
 - 出口条件：当该房间被访问，返回
-- 计算：房间都被访问，返回$true$,有一个房间未被访问，返回$false$
+- 计算：房间都被访问，返回`true`,有一个房间未被访问，返回`false`
 
 ```java
     public boolean canVisitAllRooms(List<List<Integer>> rooms) {

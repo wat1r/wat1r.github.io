@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 图问题之地图分析[Apis Cerana] 
-categories: Algorithm#[BFS/DFS]
+categories: BFS_DFS
 description: 图问题之地图分析[Apis Cerana]
 keywords: 算法, 图算法, DFS, BFS
 ---
