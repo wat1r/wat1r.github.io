@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://wat1r.github.io/
+url: https://wat1r.github.io
 date_format: "ordinal"
 title: wat1r
 subtitle: "微信公众号：阿飞算法"
