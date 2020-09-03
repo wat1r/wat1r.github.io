@@ -21,10 +21,10 @@ keywords: 算法
 | 3    | 1312      | [动态规划解最长子序列子串等一类问题之让字符串成为回文及其Follow Up[Sika Deer]](https://leetcode-cn.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/solution/dong-tai-gui-hua-jie-zui-chang-zi-xu-lie-zi-chuan-/) |               | 最长,子序列,子串 |      |
 | 4    | 128/LC397 | [动态规划解最长子序列子串等一类问题之最长连续子序列[White-lipped Deer]](https://leetcode-cn.com/problems/longest-consecutive-sequence/solution/dong-tai-gui-hua-jie-zui-chang-zi-xu-lie-zi-chua-5/) |               | 最长,子序列,子串 |      |
 | 5    | 1143      | [动态规划解最长子序列子串等一类问题之最长公共子序列[Hog Deer]](https://leetcode-cn.com/problems/longest-common-subsequence/solution/a-fei-xue-suan-fa-zhi-by-a-fei-8/) |               | 最长,子序列,子串 |      |
-| 6    |           |                                                              |               |                  |      |
-| 7    |           |                                                              |               |                  |      |
-|      |           |                                                              |               |                  |      |
-|      |           |                                                              |               |                  |      |
+| 6    | -         | [解决最长子序列等一类问题以及谈谈动态转移方程](https://leetcode-cn.com/problems/longest-consecutive-sequence/solution/tao-lu-jie-jue-zui-chang-zi-xu-lie-deng-yi-lei-wen/) |               | 最长,子序列,子串 |      |
+| 7    |           | [背包思想解决零钱兑换问题I](https://leetcode-cn.com/problems/coin-change/solution/bei-bao-si-xiang-jie-jue-ling-qian-dui-huan-wen-2/) |               | 背包,零钱        |      |
+|      |           | [背包思想解决零钱兑换问题(逐步优化，多方法)](https://leetcode-cn.com/problems/coin-change-2/solution/bei-bao-si-xiang-jie-jue-ling-qian-dui-huan-wen-ti/) |               | 背包,零钱        |      |
+|      |           | [背包问题之01背包问题（科普文，基础，背包九讲）](https://leetcode-cn.com/problems/coin-change/solution/bei-bao-wen-ti-zhi-01bei-bao-wen-ti-ke-pu-wen-ji-c/) |               | 背包,零钱        |      |
 
 
 
