@@ -14,7 +14,7 @@ keywords: 算法
 
 
 
-| 序号 | 题号      | github.io地址 | 力扣地址                                                     | 关键词           | 备注 |
+| #    | 题号      | github.io地址 | 力扣地址                                                     | 关键词           | 备注 |
 | ---- | --------- | ------------- | ------------------------------------------------------------ | ---------------- | ---- |
 | 1    | 300       |               | [动态规划解最长子序列子串等一类问题之最长上升子序列[Thorold's Deer]](https://leetcode-cn.com/problems/longest-increasing-subsequence/solution/dong-tai-gui-hua-jie-zui-chang-zi-xu-lie-zi-chua-3/) | 最长,子序列,子串 |      |
 | 2    | 673/674   |               | [动态规划解最长子序列子串等一类问题之最长连续递增序列[Reindeer]](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/solution/dong-tai-gui-hua-jie-zui-chang-zi-xu-lie-zi-chua-4/) | 最长,子序列,子串 |      |
