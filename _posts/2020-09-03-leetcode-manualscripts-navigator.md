@@ -16,9 +16,7 @@ keywords: 算法
 | ---- | ------- | ------------- | ------------------------------------------------------------ | ------ | ---- |
 | 1    | 130/684 |               | [一文掌握并查集算法](https://leetcode-cn.com/problems/redundant-connection/solution/yi-wen-zhang-wo-bing-cha-ji-suan-fa-by-a-fei-8/) |        |      |
 | 2    |         |               | [一文掌握Morris遍历算法](https://leetcode-cn.com/problems/recover-binary-search-tree/solution/yi-wen-zhang-wo-morrisbian-li-suan-fa-by-a-fei-8/) |        |      |
-|      |         |               |                                                              |        |      |
-|      |         |               |                                                              |        |      |
-|      |         |               |                                                              |        |      |
+
 
 ### 1.动态规划
 
@@ -55,7 +53,7 @@ keywords: 算法
 | ---- | ----------- | ------------------------------------------------------------ | -------- | ------ | ---- |
 | 1    | 125/680/234 | [回文回文之判断回文大礼包[Asian Elephant]](https://leetcode-cn.com/problems/valid-palindrome/solution/hui-wen-hui-wen-zhi-pan-duan-hui-wen-da-li-bao-asi/) |          |        |      |
 | 2    | 待添加链接  | [回文回文之最长回文子串[Indian Elephant].md]()               |          |        |      |
-|      |             |                                                              |          |        |      |
+
 
 
 
@@ -64,8 +62,7 @@ keywords: 算法
 | #    | 题号  | github.io地址 | 力扣地址                                                     | 关键词 | 备注 |
 | ---- | ----- | ------------- | ------------------------------------------------------------ | ------ | ---- |
 | 1    | 62/63 |               | [极小化极大之预测赢家[Polar Bear]](https://leetcode-cn.com/problems/predict-the-winner/solution/ji-xiao-hua-ji-da-zhi-yu-ce-ying-jia-polar-bear-by/) |        |      |
-|      |       |               |                                                              |        |      |
-|      |       |               |                                                              |        |      |
+
 
 #### 1.6.分割数组
 
@@ -103,9 +100,6 @@ keywords: 算法
 | 1    | 46/47 |               | [排列组合之全排列[Macaque]](https://leetcode-cn.com/problems/permutations/solution/pai-lie-zu-he-zhi-quan-pai-lie-macaque-by-a-fei-8/) |        |      |
 | 2 | 31/60 |               | [排列组合之第K个排列[Golden Monkey]](https://leetcode-cn.com/problems/permutation-sequence/solution/pai-lie-zu-he-zhi-di-kge-pai-lie-golden-monkey-by-/) |  |      |
 | 3 | 266/267 |               | [排列组合之回文排列[Tump-tailed Monkey]](https://leetcode-cn.com/problems/permutations/solution/pai-lie-zu-he-zhi-hui-wen-pai-lie-tump-tailed-monk/) |  |      |
-|     |   |               | |  |      |
-|     |   |               | |  |      |
-|     |   |               | |  |      |
 
 #### 2.3.路径
 
@@ -176,7 +170,6 @@ keywords: 算法
 | #    | 题号  | github.io地址 | 力扣地址                                                     | 关键词 | 备注 |
 | ---- | ----- | ------------- | ------------------------------------------------------------ | ------ | ---- |
 | 1    | 08.03 |               | [二分法之魔术索引[Adelie Penguin]](https://leetcode-cn.com/problems/magic-index-lcci/solution/er-fen-fa-zhi-mo-zhu-suo-yin-adelie-penguin-by-a-f/) |        |      |
-|      |       |               |                                                              |        |      |
 
 
 
