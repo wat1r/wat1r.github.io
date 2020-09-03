@@ -12,7 +12,7 @@ keywords: 算法
 
 ### 1.动态规划
 
-#### 最长子串子序列
+#### 1.1.最长子串子序列
 
 | #    | 题号      | github.io地址 | 力扣地址                                                     | 关键词           | 备注 |
 | ---- | --------- | ------------- | ------------------------------------------------------------ | ---------------- | ---- |
@@ -23,13 +23,13 @@ keywords: 算法
 | 5    | 1143      |               | [动态规划解最长子序列子串等一类问题之最长公共子序列[Hog Deer]](https://leetcode-cn.com/problems/longest-common-subsequence/solution/a-fei-xue-suan-fa-zhi-by-a-fei-8/) | 最长,子序列,子串 |      |
 | 6    | -         |               | [解决最长子序列等一类问题以及谈谈动态转移方程](https://leetcode-cn.com/problems/longest-consecutive-sequence/solution/tao-lu-jie-jue-zui-chang-zi-xu-lie-deng-yi-lei-wen/) | 最长,子序列,子串 |      |
 
-#### 背包/零钱
+#### 1.2.背包/零钱
 
-| #    | 题号      | github.io地址 | 力扣地址                                                     | 关键词           | 备注 |
-| ---- | --------- | ------------- | ------------------------------------------------------------ | ---------------- | ---- |
-| 7    | 322       |               | [背包思想解决零钱兑换问题I](https://leetcode-cn.com/problems/coin-change/solution/bei-bao-si-xiang-jie-jue-ling-qian-dui-huan-wen-2/) | 背包,零钱        |      |
-| 8    | 518       |               | [背包思想解决零钱兑换问题(逐步优化，多方法)](https://leetcode-cn.com/problems/coin-change-2/solution/bei-bao-si-xiang-jie-jue-ling-qian-dui-huan-wen-ti/) | 背包,零钱        |      |
-| 9    | -         |               | [背包问题之01背包问题（科普文，基础，背包九讲）](https://leetcode-cn.com/problems/coin-change/solution/bei-bao-wen-ti-zhi-01bei-bao-wen-ti-ke-pu-wen-ji-c/) | 背包,零钱        |      |
+| #    | 题号 | github.io地址 | 力扣地址                                                     | 关键词    | 备注 |
+| ---- | ---- | ------------- | ------------------------------------------------------------ | --------- | ---- |
+| 1    | 322  |               | [背包思想解决零钱兑换问题I](https://leetcode-cn.com/problems/coin-change/solution/bei-bao-si-xiang-jie-jue-ling-qian-dui-huan-wen-2/) | 背包,零钱 |      |
+| 2    | 518  |               | [背包思想解决零钱兑换问题(逐步优化，多方法)](https://leetcode-cn.com/problems/coin-change-2/solution/bei-bao-si-xiang-jie-jue-ling-qian-dui-huan-wen-ti/) | 背包,零钱 |      |
+| 3    | -    |               | [背包问题之01背包问题（科普文，基础，背包九讲）](https://leetcode-cn.com/problems/coin-change/solution/bei-bao-wen-ti-zhi-01bei-bao-wen-ti-ke-pu-wen-ji-c/) | 背包,零钱 |      |
 
 ### 2.BFS/DFS/并查集
 
