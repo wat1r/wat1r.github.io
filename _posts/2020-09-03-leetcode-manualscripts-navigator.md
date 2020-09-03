@@ -202,7 +202,10 @@ keywords: 算法
 
 | #    | 题号 | github.io地址 | 力扣地址 | 关键词 | 备注 |
 | ---- | ---- | ------------- | -------- | ------ | ---- |
-|      |      |               |          |        |      |
+| 1 | 95/96 |  | [二叉树之不同的二叉搜索树[Buffalo]](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/solution/er-cha-shu-zhi-bu-tong-de-er-cha-sou-suo-shu-buffa/) |      ||
+| 2 | 104/111 |  | [二叉树之最大最小深度[Yak]](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/solution/er-cha-shu-zhi-zui-da-zui-xiao-shen-du-yak-by-a-fe/) |      ||
+| 3 | 114  | | [二叉树之展开为链表[Cattle]](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/solution/er-cha-shu-zhi-zhan-kai-wei-lian-biao-cattle-by-a-/) |      ||
+| 4 | 100/101/110  | | [二叉树之是一棵什么树?[Angus Cattle]](https://leetcode-cn.com/problems/same-tree/solution/er-cha-shu-zhi-shi-yi-ke-shi-yao-shu-angus-cattle-/) |      ||
 
 
 
