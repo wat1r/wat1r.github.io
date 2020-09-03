@@ -131,7 +131,10 @@ keywords: 算法
 
 | #    | 题号 | github.io地址 | 力扣地址                                                     | 关键词 | 备注 |
 | ---- | ---- | ------------- | ------------------------------------------------------------ | ------ | ---- |
-|     |   |               | |  |      |
+|     | 待添加链接 |  | [DFS_BFS之单词接龙]() |  |      |
+| | 待添加链接 |  | [DFS_BFS单词之单词拆分I[Sawfly]]() | | |
+| | 93 |  | [DFS_BFS之复原IP地址[Dragonfly]](https://leetcode-cn.com/problems/restore-ip-addresses/solution/dfs_bfszhi-fu-yuan-ipdi-zhi-dragonfly-by-a-fei-8/) | | |
+| | 待添加链接 |  | [DFS_BFS之钥匙和房间[Grampus]]() | | |
 
 
 
@@ -149,7 +152,6 @@ keywords: 算法
 | 7 | 18/454 |   | [双指针解四数之和[Topi]](https://leetcode-cn.com/problems/4sum-ii/solution/shuang-zhi-zhen-jie-si-shu-zhi-he-topi-by-a-fei-8/) |      ||
 | 8 | 43 |   | [双指针解字符串相乘[Oryx] ](https://leetcode-cn.com/problems/multiply-strings/solution/shuang-zhi-zhen-jie-zi-fu-chuan-xiang-cheng-oryx-b/) |      ||
 
-
 ### 4.数据结构设计
 
 | #    | 题号  | github.io地址 | 力扣地址   | 关键词 | 备注 |
@@ -157,7 +159,9 @@ keywords: 算法
 | 1 | 待添加链接 |  | [数据结构设计之栈与队列互转Black Rhinoceros]() |  |    |
 | 2 | 115 |  | [数据结构设计之最大最小栈[Indian Rhinoceros]](https://leetcode-cn.com/problems/min-stack/solution/shu-ju-jie-gou-she-ji-zhi-zui-da-zui-xiao-zhan-ind/) |      |  |
 | 3 | 218 |  | [数据结构设计之实现 Trie (前缀树)[Sumatran Rhinoceros]](https://leetcode-cn.com/problems/implement-trie-prefix-tree/solution/shu-ju-jie-gou-she-ji-zhi-shi-xian-trie-qian-zhui-/) | | |
-| 4 |  307|     |  [数据结构设计之线段树[White Rhinoceros]](https://leetcode-cn.com/problems/range-sum-query-mutable/solution/shu-ju-jie-gou-she-ji-zhi-xian-duan-shu-white-rhin/)        |   |   |
+| 4 | 211/212 | | [前缀树应用之单词搜索[Cape Giraffe]](https://leetcode-cn.com/problems/word-search-ii/solution/qian-zhui-shu-ying-yong-zhi-dan-ci-sou-suo-cape-gi/) | | |
+| 5 |  307|     |  [数据结构设计之线段树[White Rhinoceros]](https://leetcode-cn.com/problems/range-sum-query-mutable/solution/shu-ju-jie-gou-she-ji-zhi-xian-duan-shu-white-rhin/)        |   |   |
+
 
 ### 5.单调栈
 
@@ -169,9 +173,10 @@ keywords: 算法
 
 ### 6.二分
 
-| #    | 题号 | github.io地址 | 力扣地址 | 关键词 | 备注 |
-| ---- | ---- | ------------- | -------- | ------ | ---- |
-|      |      |               |          |        |      |
+| #    | 题号  | github.io地址 | 力扣地址                                                     | 关键词 | 备注 |
+| ---- | ----- | ------------- | ------------------------------------------------------------ | ------ | ---- |
+| 1    | 08.03 |               | [二分法之魔术索引[Adelie Penguin]](https://leetcode-cn.com/problems/magic-index-lcci/solution/er-fen-fa-zhi-mo-zhu-suo-yin-adelie-penguin-by-a-f/) |        |      |
+|      |       |               |                                                              |        |      |
 
 
 
@@ -217,6 +222,7 @@ keywords: 算法
 | #    | 题号    | github.io地址                                                | 力扣地址 | 关键词 | 备注 |
 | ---- | ------- | ------------------------------------------------------------ | -------- | ------ | ---- |
 |      | 349/350 | [多解法解两个数组的交集[Persian Leopard]](https://leetcode-cn.com/problems/intersection-of-two-arrays/solution/duo-chong-jie-fa-jie-jue-349-liang-ge-shu-zu-de-ji/) |          |        |      |
+|      |         | [归并思想解数组逆序对]()                                     |          |        |      |
 
 
 
