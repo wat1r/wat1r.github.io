@@ -49,6 +49,40 @@ keywords: 算法
 | 2    | 64/120 |               | [动态规划解路径之最小路径和[Flying Squirrel]](https://leetcode-cn.com/problems/triangle/solution/dong-tai-gui-hua-jie-lu-jing-zhi-zui-xiao-lu-jin-2/) |        |      |
 | 3    | 174    |               | [[动态规划解路径之地下城游戏[Lord Squirrel]](https://leetcode-cn.com/problems/dungeon-game/solution/dong-tai-gui-hua-jie-lu-jing-zhi-di-xia-cheng-you-/) |        |      |
 
+#### 1.4.回文回文
+
+| #    | 题号        | github.io地址                                                | 力扣地址 | 关键词 | 备注 |
+| ---- | ----------- | ------------------------------------------------------------ | -------- | ------ | ---- |
+| 1    | 125/680/234 | [回文回文之判断回文大礼包[Asian Elephant]](https://leetcode-cn.com/problems/valid-palindrome/solution/hui-wen-hui-wen-zhi-pan-duan-hui-wen-da-li-bao-asi/) |          |        |      |
+| 2    | 待添加链接  | [回文回文之最长回文子串[Indian Elephant].md]()               |          |        |      |
+|      |             |                                                              |          |        |      |
+
+
+
+#### 1.5.博弈
+
+| #    | 题号  | github.io地址 | 力扣地址                                                     | 关键词 | 备注 |
+| ---- | ----- | ------------- | ------------------------------------------------------------ | ------ | ---- |
+| 1    | 62/63 |               | [极小化极大之预测赢家[Polar Bear]](https://leetcode-cn.com/problems/predict-the-winner/solution/ji-xiao-hua-ji-da-zhi-yu-ce-ying-jia-polar-bear-by/) |        |      |
+|      |       |               |                                                              |        |      |
+|      |       |               |                                                              |        |      |
+
+#### 1.6.分割数组
+
+| #    | 题号  | github.io地址 | 力扣地址                                                     | 关键词 | 备注 |
+| ---- | ----- | ------------- | ------------------------------------------------------------ | ------ | ---- |
+| 1 | 410  | | [动态规划解分割数组I[Red Fox]](https://leetcode-cn.com/problems/split-array-largest-sum/solution/dong-tai-gui-hua-jie-fen-ge-shu-zu-ired-fox-by-a-f/) |      ||
+| 2 | 1043 |  | [动态规划解分割数组II[Arctic Fox]](https://leetcode-cn.com/problems/partition-array-for-maximum-sum/solution/leetcodebi-ji-java-py-si-ke-yi-dao-ti-1043-fen-ge-/) |      ||
+| 3 |   343|    | [动态规划解拆分整数I[Silver Fox]](https://leetcode-cn.com/problems/integer-break/solution/dong-tai-gui-hua-jie-chai-fen-zheng-shu-isilver-fo)       |||
+
+#### 1.20.UnClassify
+
+| #    | 题号 | github.io地址 | 力扣地址                                                     | 关键词 | 备注 |
+| ---- | ---- | ------------- | ------------------------------------------------------------ | ------ | ---- |
+| 1    | 718  |               | [动态规划之最长重复子数组[White Tiger]](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/solution/dong-tai-gui-hua-zhi-zui-chang-zhong-fu-zi-shu-zu-/) |        |      |
+
+
+
 ### 2.BFS/DFS/并查集
 
 #### 2.1.岛屿问题
@@ -60,12 +94,6 @@ keywords: 算法
 | 3   | 130 |               | [岛屿问题之被围绕的区域[Cicada]](https://leetcode-cn.com/problems/surrounded-regions/solution/dao-yu-wen-ti-zhi-bei-wei-rao-de-qu-yu-cicada-by-2/) | 岛屿 |      |
 | 4   | -/- |               | [岛屿问题之不同岛屿的数量[Monarch Butterfly]](https://leetcode-cn.com/problems/number-of-islands/solution/dao-yu-wen-ti-zhi-bu-tong-dao-yu-de-shu-liang-mona/) | 岛屿 |      |
 | 5   | 827 |               | [岛屿问题之最大人工岛[Danaus Genutia]](https://leetcode-cn.com/problems/making-a-large-island/solution/dao-yu-wen-ti-zhi-zui-da-ren-gong-dao-danaus-genut/) |  |      |
-|     |   |               | |  |      |
-|     |   |               | |  |      |
-|     |   |               | |  |      |
-|     |   |               | |  |      |
-|     |   |               | |  |      |
-
 
 
 #### 2.2.排列组合
@@ -98,11 +126,55 @@ keywords: 算法
 | 4 | 1462 | | [课程表三剑客番外篇之课程安排Ⅳ[Tumblebug ]](https://leetcode-cn.com/problems/course-schedule-iv/solution/ke-cheng-biao-san-jian-ke-fan-wai-pian-zhi-ke-chen/)   |      ||
 
 
+
+#### 2.20.UnClassify
+
+| #    | 题号 | github.io地址 | 力扣地址                                                     | 关键词 | 备注 |
+| ---- | ---- | ------------- | ------------------------------------------------------------ | ------ | ---- |
+|     |   |               | |  |      |
+
+
+
+
 ### 3.双指针
+
+| #    | 题号 | github.io地址 | 力扣地址                                                     | 关键词 | 备注 |
+| ---- | ---- | ------------- | ------------------------------------------------------------ | ------ | ---- |
+| 1 | 141   |  | [Step1.双指针之快慢指针(科普文)](https://leetcode-cn.com/problems/linked-list-cycle/solution/step1shuang-zhi-zhen-zhi-kuai-man-zhi-zhen-ke-pu-w/) |      ||
+| 2 | 待添加链接 |  | 双指针大法之左右指针 |      ||
+| 3 | 待添加链接 |  | 双指针大法之滑动窗口Alpaca |      ||
+| 4 | 415  |  | [双指针解字符串相加[Tibetan Antelope]](https://leetcode-cn.com/problems/add-strings/solution/shuang-zhi-zhen-jie-zi-fu-chuan-xiang-jia-tibetan-/) |      ||
+| 5 | 2/445  |  | [ 双指针解两数相加[Saiga Antelope]](https://leetcode-cn.com/problems/add-two-numbers-ii/solution/shuang-zhi-zhen-jie-liang-shu-xiang-jia-saiga-ante/) |      ||
+| 6 | 15  |  | [双指针解三数之和[Takin]](https://leetcode-cn.com/problems/3sum/solution/shuang-zhi-zhen-jie-san-shu-zhi-he-takin-by-a-fei-/) |      ||
+| 7 | 18/454 |   | [双指针解四数之和[Topi]](https://leetcode-cn.com/problems/4sum-ii/solution/shuang-zhi-zhen-jie-si-shu-zhi-he-topi-by-a-fei-8/) |      ||
+| 8 | 43 |   | [双指针解字符串相乘[Oryx] ](https://leetcode-cn.com/problems/multiply-strings/solution/shuang-zhi-zhen-jie-zi-fu-chuan-xiang-cheng-oryx-b/) |      ||
+
 
 
 
 ### 4.数据结构设计
+| #    | 题号  | github.io地址 | 力扣地址                                                     | 关键词 | 备注 |
+| ---- | ----- | ------------- | ------------------------------------------------------------ | ------ | ---- |
+| 1 | 待添加链接 |  | [数据结构设计之栈与队列互转Black Rhinoceros]() |      ||
+| 2 | 115 |  | [数据结构设计之最大最小栈[Indian Rhinoceros]](https://leetcode-cn.com/problems/min-stack/solution/shu-ju-jie-gou-she-ji-zhi-zui-da-zui-xiao-zhan-ind/) |      ||
+| 3 | 218 |  | [数据结构设计之实现 Trie (前缀树)[Sumatran Rhinoceros]](https://leetcode-cn.com/problems/implement-trie-prefix-tree/solution/shu-ju-jie-gou-she-ji-zhi-shi-xian-trie-qian-zhui-/) |                                                          ||
+| 4 |  307|     |  [数据结构设计之线段树[White Rhinoceros]](https://leetcode-cn.com/problems/range-sum-query-mutable/solution/shu-ju-jie-gou-she-ji-zhi-xian-duan-shu-white-rhin/)                                                           |      ||
+
+### 5.单调栈
+
+| #    | 题号 | github.io地址 | 力扣地址 | 关键词 | 备注 |
+| ---- | ---- | ------------- | -------- | ------ | ---- |
+|      |      |               |          |        |      |
+
+
+
+### 6.二分
+
+| #    | 题号 | github.io地址 | 力扣地址 | 关键词 | 备注 |
+| ---- | ---- | ------------- | -------- | ------ | ---- |
+|      |      |               |          |        |      |
+
+
 
 
 
@@ -110,11 +182,43 @@ keywords: 算法
 
 ### 7.贪心
 
+| #    | 题号 | github.io地址 | 力扣地址 | 关键词 | 备注 |
+| ---- | ---- | ------------- | -------- | ------ | ---- |
+|      |      |               |          |        |      |
+
 
 
 ### 9.位运算
 
+| #    | 题号 | github.io地址 | 力扣地址 | 关键词 | 备注 |
+| ---- | ---- | ------------- | -------- | ------ | ---- |
+|      |      |               |          |        |      |
 
 
-### 0.未分类
+
+
+
+### 11.二叉树
+
+| #    | 题号 | github.io地址 | 力扣地址 | 关键词 | 备注 |
+| ---- | ---- | ------------- | -------- | ------ | ---- |
+|      |      |               |          |        |      |
+
+
+
+
+
+
+
+### 0.UnClassify
+
+| #    | 题号    | github.io地址                                                | 力扣地址 | 关键词 | 备注 |
+| ---- | ------- | ------------------------------------------------------------ | -------- | ------ | ---- |
+|      | 349/350 | [多解法解两个数组的交集[Persian Leopard]](https://leetcode-cn.com/problems/intersection-of-two-arrays/solution/duo-chong-jie-fa-jie-jue-349-liang-ge-shu-zu-de-ji/) |          |        |      |
+
+
+
+
+
+
 
