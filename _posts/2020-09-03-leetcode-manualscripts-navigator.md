@@ -153,12 +153,12 @@ keywords: 算法
 
 
 ### 4.数据结构设计
-| #    | 题号  | github.io地址 | 力扣地址                                                     | 关键词 | 备注 |
+| #    | 题号  | github.io地址 | 力扣地址   | 关键词 | 备注 |
 | ---- | ---- | ------------- | -------- | ------ | ---- |
-| 1 | 待添加链接 |  | [数据结构设计之栈与队列互转Black Rhinoceros]() |      | |
-| 2 | 115 |  | [数据结构设计之最大最小栈[Indian Rhinoceros]](https://leetcode-cn.com/problems/min-stack/solution/shu-ju-jie-gou-she-ji-zhi-zui-da-zui-xiao-zhan-ind/) |      | |
-| 3 | 218 |  | [数据结构设计之实现 Trie (前缀树)[Sumatran Rhinoceros]](https://leetcode-cn.com/problems/implement-trie-prefix-tree/solution/shu-ju-jie-gou-she-ji-zhi-shi-xian-trie-qian-zhui-/) |                                                          | |
-| 4 |  307|     |  [数据结构设计之线段树[White Rhinoceros]](https://leetcode-cn.com/problems/range-sum-query-mutable/solution/shu-ju-jie-gou-she-ji-zhi-xian-duan-shu-white-rhin/)                                                           |      | |
+| 1 | 待添加链接 |  | [数据结构设计之栈与队列互转Black Rhinoceros]() |  |    |
+| 2 | 115 |  | [数据结构设计之最大最小栈[Indian Rhinoceros]](https://leetcode-cn.com/problems/min-stack/solution/shu-ju-jie-gou-she-ji-zhi-zui-da-zui-xiao-zhan-ind/) |      |  |
+| 3 | 218 |  | [数据结构设计之实现 Trie (前缀树)[Sumatran Rhinoceros]](https://leetcode-cn.com/problems/implement-trie-prefix-tree/solution/shu-ju-jie-gou-she-ji-zhi-shi-xian-trie-qian-zhui-/) | | |
+| 4 |  307|     |  [数据结构设计之线段树[White Rhinoceros]](https://leetcode-cn.com/problems/range-sum-query-mutable/solution/shu-ju-jie-gou-she-ji-zhi-xian-duan-shu-white-rhin/)        |   |   |
 
 
 
