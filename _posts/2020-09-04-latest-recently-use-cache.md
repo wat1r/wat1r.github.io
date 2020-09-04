@@ -1,11 +1,9 @@
 ---
 layout: post
 title: 数据结构设计之LRU缓存机制[Javan Rhinoceros]
-categories: BFS_DFS
+categories: Design
 description: LRU
-keywords: Design
-
-
+keywords: LRU
 ---
 
 ## 数据结构设计之LRU缓存机制[Javan Rhinoceros]
