@@ -5,6 +5,7 @@ categories: BFS_DFS
 description: LRU
 keywords: Design
 
+
 ---
 
 ## 数据结构设计之LRU缓存机制[Javan Rhinoceros]
@@ -13,7 +14,7 @@ keywords: Design
 
 
 
-需要一个哈希双端链表，$DoubleLinkedNode$
+需要一个哈希双端链表，`DoubleLinkedNode`
 
 >  这个双端链表有下面的几个属性
 
@@ -32,7 +33,7 @@ keywords: Design
         }
 ```
 
-> 将新加入的节点插入到双端链表的头部位置$addFirst(node)$
+> 将新加入的节点插入到双端链表的头部位置`addFirst(node)`
 
 ![image-20200904085250881](/images/posts/algorithm/design/image-20200904085250881.png)
 
@@ -50,7 +51,7 @@ keywords: Design
 
 ```
 
-> 移除一个节点$removeNode(node)$
+> 移除一个节点`removeNode(node)`
 
 ![image-20200904090539191](/images/posts/algorithm/design/image-20200904090539191.png)
 
@@ -68,7 +69,7 @@ keywords: Design
         }
 ```
 
-> 弹出最末尾的节点，并返回最后的节点$popLast$
+> 弹出最末尾的节点，并返回最后的节点`popLast`
 
 ```java
         /**
@@ -83,7 +84,7 @@ keywords: Design
         }
 ```
 
-> 将一个已经在链表中存在的节点移动到链表的开头$moveToHead(node)$
+> 将一个已经在链表中存在的节点移动到链表的开头`moveToHead(node)`
 
 - 先移除这个节点移除，再将这个节点添加到链表的开头
 
@@ -99,24 +100,24 @@ keywords: Design
         }
 ```
 
-> 下面开始$LRU$
+> 下面开始`LRU`
 
 #### 思路
 
 > 初始化
 
-- 注意$head$节点和$tail$节点需要$new$出来
+- 注意`head`节点和`tail`节点需要`new`出来
 
-> $get(key)$
+> `get(key)`
 
-- 如果$cache$中不存在$key$,返回-1
-- 如果$cache$中存在，取出这个节点，将节点$moveToHead$，返回节点的值
+- 如果`cache`中不存在`key`,返回-1
+- 如果`cache`中存在，取出这个节点，将节点`moveToHead`，返回节点的值
 
-> $put(k,v)$
+> `put(k,v)`
 
 - 取出节点，分节点存在与否讨论：
-  - 节点不存在：新创建节点，将该节点插入到链表的头部，并将其$put$进$cache$中
-    - 做一个额外的判断：如果当前的$cache$的大小大于$capacity$，需要移除最末尾的节点，链表和$cache$都要做移除操作
+  - 节点不存在：新创建节点，将该节点插入到链表的头部，并将其`put`进`cache`中
+    - 做一个额外的判断：如果当前的`cache`的大小大于`capacity`，需要移除最末尾的节点，链表和`cache`都要做移除操作
   - 节点存在:返回节点的值，将节点移动到链表头部
 
 ```java
@@ -164,4 +165,3 @@ keywords: Design
         }
     }
 ```
-

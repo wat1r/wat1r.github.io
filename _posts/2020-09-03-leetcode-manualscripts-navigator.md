@@ -156,7 +156,7 @@ topmost: true
 | 3 | 218 |  | [数据结构设计之实现 Trie (前缀树)[Sumatran Rhinoceros]](https://leetcode-cn.com/problems/implement-trie-prefix-tree/solution/shu-ju-jie-gou-she-ji-zhi-shi-xian-trie-qian-zhui-/) | | |
 | 4 | 211/212 | | [前缀树应用之单词搜索[Cape Giraffe]](https://leetcode-cn.com/problems/word-search-ii/solution/qian-zhui-shu-ying-yong-zhi-dan-ci-sou-suo-cape-gi/) | | |
 | 5 |  307|     |  [数据结构设计之线段树[White Rhinoceros]](https://leetcode-cn.com/problems/range-sum-query-mutable/solution/shu-ju-jie-gou-she-ji-zhi-xian-duan-shu-white-rhin/)        |   |   |
-| 6 | 146 | | [数据结构设计之LRU缓存机制[Javan Rhinoceros]](https://leetcode-cn.com/problems/lru-cache/solution/shu-ju-jie-gou-she-ji-zhi-lruhuan-cun-ji-zhi-javan/) | | |
+| 6 | 146 | [数据结构设计之LRU缓存机制[Javan Rhinoceros]](https://wat1r.github.io/2020/09/04/latest-recently-use-cache/) | [数据结构设计之LRU缓存机制[Javan Rhinoceros]](https://leetcode-cn.com/problems/lru-cache/solution/shu-ju-jie-gou-she-ji-zhi-lruhuan-cun-ji-zhi-javan/) | | |
 
 
 ### 5.单调栈
