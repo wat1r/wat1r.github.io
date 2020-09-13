@@ -76,9 +76,10 @@ topmost: true
 
 #### 1.20.UnClassify
 
-| #    | 题号 | github.io地址 | 力扣地址                                                     | 关键词 | 备注 |
-| ---- | ---- | ------------- | ------------------------------------------------------------ | ------ | ---- |
-| 1    | 718  |               | [动态规划之最长重复子数组[White Tiger]](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/solution/dong-tai-gui-hua-zhi-zui-chang-zhong-fu-zi-shu-zu-/) |        |      |
+| #    | 题号 | github.io地址                                                | 力扣地址                                                     | 关键词 | 备注 |
+| ---- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ | ---- |
+| 1    | 718  |                                                              | [动态规划之最长重复子数组[White Tiger]](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/solution/dong-tai-gui-hua-zhi-zui-chang-zhong-fu-zi-shu-zu-/) |        |      |
+| 2    | 368  | [动态规划解整除数组[Swan]](https://wat1r.github.io/2020/09/13/largest-divisible-subset/) |                                                              |        |      |
 
 
 
