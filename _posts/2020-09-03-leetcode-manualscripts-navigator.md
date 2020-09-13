@@ -17,6 +17,7 @@ topmost: true
 | ---- | ------- | ------------- | ------------------------------------------------------------ | ------ | ---- |
 | 1    | 130/684 |               | [一文掌握并查集算法](https://leetcode-cn.com/problems/redundant-connection/solution/yi-wen-zhang-wo-bing-cha-ji-suan-fa-by-a-fei-8/) |        |      |
 | 2    |         |               | [一文掌握Morris遍历算法](https://leetcode-cn.com/problems/recover-binary-search-tree/solution/yi-wen-zhang-wo-morrisbian-li-suan-fa-by-a-fei-8/) |        |      |
+| 3    | 315     |               | [一文掌握树状数组](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/solution/yi-wen-zhang-wo-shu-zhuang-shu-zu-by-a-fei-8/) |        |      |
 
 
 ### 1.动态规划
