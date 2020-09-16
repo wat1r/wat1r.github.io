@@ -35,11 +35,13 @@ topmost: true
 
 #### 1.2.背包/零钱
 
-| #    | 题号 | github.io地址 | 力扣地址                                                     | 关键词    | 备注 |
-| ---- | ---- | ------------- | ------------------------------------------------------------ | --------- | ---- |
-| 1    | 322  |               | [背包思想解决零钱兑换问题I](https://leetcode-cn.com/problems/coin-change/solution/bei-bao-si-xiang-jie-jue-ling-qian-dui-huan-wen-2/) | 背包,零钱 |      |
-| 2    | 518  |               | [背包思想解决零钱兑换问题(逐步优化，多方法)](https://leetcode-cn.com/problems/coin-change-2/solution/bei-bao-si-xiang-jie-jue-ling-qian-dui-huan-wen-ti/) | 背包,零钱 |      |
-| 3    | -    |               | [背包问题之01背包问题（科普文，基础，背包九讲）](https://leetcode-cn.com/problems/coin-change/solution/bei-bao-wen-ti-zhi-01bei-bao-wen-ti-ke-pu-wen-ji-c/) | 背包,零钱 |      |
+| #    | 题号      | github.io地址 | 力扣地址                                                     | 关键词    | 备注 |
+| ---- | --------- | ------------- | ------------------------------------------------------------ | --------- | ---- |
+| 1    | 322       |               | [背包思想解决零钱兑换问题I](https://leetcode-cn.com/problems/coin-change/solution/bei-bao-si-xiang-jie-jue-ling-qian-dui-huan-wen-2/) | 背包,零钱 |      |
+| 2    | 518       |               | [背包思想解决零钱兑换问题(逐步优化，多方法)](https://leetcode-cn.com/problems/coin-change-2/solution/bei-bao-si-xiang-jie-jue-ling-qian-dui-huan-wen-ti/) | 背包,零钱 |      |
+| 3    | -         |               | [背包问题之01背包问题（科普文，基础，背包九讲）](https://leetcode-cn.com/problems/coin-change/solution/bei-bao-wen-ti-zhi-01bei-bao-wen-ti-ke-pu-wen-ji-c/) | 背包,零钱 |      |
+| 4    | 474       |               | [01背包问题之一和零](https://leetcode-cn.com/problems/ones-and-zeroes/solution/01bei-bao-wen-ti-zhi-yi-he-ling-by-a-fei-8/) | 01背包    |      |
+| 5    | 1406/1409 |               | [01背包问题之最后一块石头的重量[Pelican]](https://leetcode-cn.com/problems/last-stone-weight-ii/solution/dong-tai-gui-hua-jie-zui-hou-yi-kuai-shi-tou-de-zh/) | 01背包    |      |
 
 #### 1.3.路径
 
