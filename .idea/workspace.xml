@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88761fd3-cd86-4a20-a56a-27b9a7779a5f" name="Default Changelist" comment="spfa">
+    <list default="true" id="88761fd3-cd86-4a20-a56a-27b9a7779a5f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,20 +62,7 @@
       <workItem from="1599551075169" duration="590000" />
       <workItem from="1599966045336" duration="1242000" />
       <workItem from="1600694555313" duration="627000" />
-    </task>
-    <task id="LOCAL-00022" summary="init">
-      <created>1598587823667</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1598587823667</updated>
-    </task>
-    <task id="LOCAL-00023" summary="init">
-      <created>1598588093435</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1598588093435</updated>
+      <workItem from="1600780063990" duration="754000" />
     </task>
     <task id="LOCAL-00024" summary="init">
       <created>1598847466271</created>
@@ -406,7 +393,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600694910751</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="bellman-ford">
+      <created>1600780078086</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1600780078086</updated>
+    </task>
+    <task id="LOCAL-00072" summary="bellman-ford">
+      <created>1600780145055</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1600780145055</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -435,18 +436,19 @@
     <MESSAGE value="368" />
     <MESSAGE value="1049" />
     <MESSAGE value="spfa" />
-    <option name="LAST_COMMIT_MESSAGE" value="spfa" />
+    <MESSAGE value="bellman-ford" />
+    <option name="LAST_COMMIT_MESSAGE" value="bellman-ford" />
   </component>
   <component name="WindowStateProjectService">
     <state x="700" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598587632311">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="700" y="322" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1598587632311" />
-    <state x="2200" y="202" key="CommitChangelistDialog2" timestamp="1600780076404">
+    <state x="2200" y="202" key="CommitChangelistDialog2" timestamp="1600780144367">
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state x="539" y="112" key="CommitChangelistDialog2/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1599966670538" />
-    <state x="2200" y="202" key="CommitChangelistDialog2/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1600780076404" />
+    <state x="2200" y="202" key="CommitChangelistDialog2/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1600780144367" />
     <state x="1484" y="148" width="1536" height="861" key="DiffContextDialog" timestamp="1600260728966">
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
@@ -464,11 +466,11 @@
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state x="2377" y="317" key="RollbackChangesDialog/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1600260376475" />
-    <state x="2184" y="456" key="Vcs.Push.Dialog.v2" timestamp="1600780083430">
+    <state x="2184" y="456" key="Vcs.Push.Dialog.v2" timestamp="1600780146368">
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state x="552" y="252" key="Vcs.Push.Dialog.v2/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1599966673212" />
-    <state x="2184" y="456" key="Vcs.Push.Dialog.v2/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1600780083430" />
+    <state x="2184" y="456" key="Vcs.Push.Dialog.v2/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1600780146368" />
     <state x="615" y="253" width="690" height="534" key="find.popup" timestamp="1598851384176">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
