@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88761fd3-cd86-4a20-a56a-27b9a7779a5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2020-09-23-dijkstra-algorithm-master.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/Untitled.assets/dijkstra.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/posts/algorithm/classical/dijkstra.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,14 +63,7 @@
       <workItem from="1599551075169" duration="590000" />
       <workItem from="1599966045336" duration="1242000" />
       <workItem from="1600694555313" duration="627000" />
-      <workItem from="1600780063990" duration="3460000" />
-    </task>
-    <task id="LOCAL-00035" summary="category">
-      <created>1598858573049</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1598858573049</updated>
+      <workItem from="1600780063990" duration="3805000" />
     </task>
     <task id="LOCAL-00036" summary="enhance">
       <created>1598874427147</created>
@@ -411,7 +401,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600824349035</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="dijkstra">
+      <created>1600862278242</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1600862278242</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -443,18 +440,19 @@
     <MESSAGE value="navigator" />
     <MESSAGE value="prim" />
     <MESSAGE value="floyd" />
-    <option name="LAST_COMMIT_MESSAGE" value="floyd" />
+    <MESSAGE value="dijkstra" />
+    <option name="LAST_COMMIT_MESSAGE" value="dijkstra" />
   </component>
   <component name="WindowStateProjectService">
     <state x="700" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598587632311">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="700" y="322" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1598587632311" />
-    <state x="2200" y="202" key="CommitChangelistDialog2" timestamp="1600824348372">
+    <state x="2200" y="202" key="CommitChangelistDialog2" timestamp="1600862276247">
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state x="539" y="112" key="CommitChangelistDialog2/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1599966670538" />
-    <state x="2200" y="202" key="CommitChangelistDialog2/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1600824348372" />
+    <state x="2200" y="202" key="CommitChangelistDialog2/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1600862276247" />
     <state x="384" y="148" width="1536" height="861" key="DiffContextDialog" timestamp="1600823745743">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -472,11 +470,11 @@
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state x="2377" y="317" key="RollbackChangesDialog/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1600260376475" />
-    <state x="2184" y="456" key="Vcs.Push.Dialog.v2" timestamp="1600824350810">
+    <state x="2184" y="456" key="Vcs.Push.Dialog.v2" timestamp="1600862373949">
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state x="552" y="252" key="Vcs.Push.Dialog.v2/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1599966673212" />
-    <state x="2184" y="456" key="Vcs.Push.Dialog.v2/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1600824350810" />
+    <state x="2184" y="456" key="Vcs.Push.Dialog.v2/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1600862373949" />
     <state x="2252" y="896" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600823734887">
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
