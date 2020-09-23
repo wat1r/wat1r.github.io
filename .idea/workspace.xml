@@ -62,14 +62,7 @@
       <workItem from="1599551075169" duration="590000" />
       <workItem from="1599966045336" duration="1242000" />
       <workItem from="1600694555313" duration="627000" />
-      <workItem from="1600780063990" duration="1190000" />
-    </task>
-    <task id="LOCAL-00026" summary="init">
-      <created>1598849861800</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1598849861800</updated>
+      <workItem from="1600780063990" duration="1802000" />
     </task>
     <task id="LOCAL-00027" summary="init">
       <created>1598850013152</created>
@@ -407,7 +400,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600822353389</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="navigator">
+      <created>1600822667072</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1600822667072</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -431,25 +431,25 @@
     <MESSAGE value="init" />
     <MESSAGE value="category" />
     <MESSAGE value="enhance" />
-    <MESSAGE value="navigator" />
     <MESSAGE value="LRU" />
     <MESSAGE value="368" />
     <MESSAGE value="1049" />
     <MESSAGE value="spfa" />
     <MESSAGE value="bellman-ford" />
     <MESSAGE value="floyd" />
-    <option name="LAST_COMMIT_MESSAGE" value="floyd" />
+    <MESSAGE value="navigator" />
+    <option name="LAST_COMMIT_MESSAGE" value="navigator" />
   </component>
   <component name="WindowStateProjectService">
     <state x="700" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598587632311">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="700" y="322" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1598587632311" />
-    <state x="2200" y="202" key="CommitChangelistDialog2" timestamp="1600822352141">
+    <state x="2200" y="202" key="CommitChangelistDialog2" timestamp="1600823295189">
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state x="539" y="112" key="CommitChangelistDialog2/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1599966670538" />
-    <state x="2200" y="202" key="CommitChangelistDialog2/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1600822352141" />
+    <state x="2200" y="202" key="CommitChangelistDialog2/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1600823295189" />
     <state x="1484" y="148" width="1536" height="861" key="DiffContextDialog" timestamp="1600260728966">
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
@@ -467,11 +467,11 @@
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state x="2377" y="317" key="RollbackChangesDialog/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1600260376475" />
-    <state x="2184" y="456" key="Vcs.Push.Dialog.v2" timestamp="1600822354753">
+    <state x="2184" y="456" key="Vcs.Push.Dialog.v2" timestamp="1600822668617">
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state x="552" y="252" key="Vcs.Push.Dialog.v2/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1599966673212" />
-    <state x="2184" y="456" key="Vcs.Push.Dialog.v2/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1600822354753" />
+    <state x="2184" y="456" key="Vcs.Push.Dialog.v2/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1600822668617" />
     <state x="615" y="253" width="690" height="534" key="find.popup" timestamp="1598851384176">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
