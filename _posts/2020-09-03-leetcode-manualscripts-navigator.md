@@ -22,7 +22,7 @@ topmost: true
 | 5    |         | [一文掌握Bellman-Ford算法](https://wat1r.github.io/2020/09/22/bellman-ford-algorithm-master/) |                                                              | Graph,Shortest Path,Model |      |
 | 6    |         | [一文掌握SPFA算法](https://wat1r.github.io/2020/09/21/spfa-algorithm-master/) |                                                              | Graph,Shortest Path,Model |      |
 | 7    |         | [一文掌握Floyd算法](https://wat1r.github.io/2020/09/23/floyd-algorithm-master/) |                                                              | Graph,Shortest Path,Model |      |
-| 8    |         | [一文掌握Prime算法](https://wat1r.github.io/2020/09/23/prime-algorithm-master/) |                                                              | Graph,MST,Model           |      |
+| 8    |         | [一文掌握Prim算法](https://wat1r.github.io/2020/09/23/prime-algorithm-master/) |                                                              | Graph,MST,Model           |      |
 | 9    |         | [一文掌握Kruskal算法](https://wat1r.github.io/2020/09/23/kruskal-algorithm-master/) |                                                              | Graph,MST,Model           |      |
 
 
