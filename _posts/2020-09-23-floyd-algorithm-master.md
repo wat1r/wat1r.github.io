@@ -40,8 +40,9 @@ typedef struct struct_graph{
 
 #### 思路
 
-- 用数组`dist[i][j]`来记录`i,j`之间的最短距离。初始化`dist[i][j]`若`i=j`则`dist[i][j]`=0
-  - 若`i,j`之间有边连接则的$dist[i][j]$值为该边的权值，否则`dist[i][j]`的值为`INF`(无穷大)
+- 用数组`dist[i][j]`来记录`i,j`之间的最短距离。初始化`dist[i][j]`
+  - 若`i=j`则`dist[i][j]`=0
+  - 若`i,j`之间有边连接则的`dist[i][j]​`值为该边的权值，否则`dist[i][j]`的值为`INF`(无穷大)
 - 对所有的`k`值从`1`到`n`,修正任意两点之间的最短距离,计算`dist[i][k]`+`dist[k][j]`的值，若小于`dist[i][j]`,则`dist[i][j]`= `dist[i][k]`+`dist[k][j]`，否则`dist[i][j]`的值不变
 
 ![image-20200921211548307.png](/images/posts/algorithm/classical/floyd.png)
