@@ -13,11 +13,15 @@ topmost: true
 
 #### 0.1.一文系列
 
-| #    | 题号    | github.io地址 | 力扣地址                                                     | 关键词 | 备注 |
-| ---- | ------- | ------------- | ------------------------------------------------------------ | ------ | ---- |
-| 1    | 130/684 |               | [一文掌握并查集算法](https://leetcode-cn.com/problems/redundant-connection/solution/yi-wen-zhang-wo-bing-cha-ji-suan-fa-by-a-fei-8/) |        |      |
-| 2    |         |               | [一文掌握Morris遍历算法](https://leetcode-cn.com/problems/recover-binary-search-tree/solution/yi-wen-zhang-wo-morrisbian-li-suan-fa-by-a-fei-8/) |        |      |
-| 3    | 315     |               | [一文掌握树状数组](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/solution/yi-wen-zhang-wo-shu-zhuang-shu-zu-by-a-fei-8/) |        |      |
+| #    | 题号    | github.io地址                                                | 力扣地址                                                     | 关键词                    | 备注 |
+| ---- | ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------- | ---- |
+| 1    | 130/684 |                                                              | [一文掌握并查集算法](https://leetcode-cn.com/problems/redundant-connection/solution/yi-wen-zhang-wo-bing-cha-ji-suan-fa-by-a-fei-8/) |                           |      |
+| 2    |         |                                                              | [一文掌握Morris遍历算法](https://leetcode-cn.com/problems/recover-binary-search-tree/solution/yi-wen-zhang-wo-morrisbian-li-suan-fa-by-a-fei-8/) |                           |      |
+| 3    | 315     |                                                              | [一文掌握树状数组](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/solution/yi-wen-zhang-wo-shu-zhuang-shu-zu-by-a-fei-8/) |                           |      |
+| 4    |         | 一文掌握Dijkstra算法                                         |                                                              | Graph,Shortest Path,Model | TODO |
+| 5    |         | [一文掌握Bellman-Ford算法](https://wat1r.github.io/2020/09/22/bellman-ford-algorithm-master/) |                                                              | Graph,Shortest Path,Model |      |
+| 6    |         | [一文掌握SPFA算法](https://wat1r.github.io/2020/09/21/spfa-algorithm-master/) |                                                              | Graph,Shortest Path,Model |      |
+| 7    |         | [一文掌握Floyd算法](https://wat1r.github.io/2020/09/23/floyd-algorithm-master/) |                                                              | Graph,Shortest Path,Model |      |
 
 
 ### 1.动态规划
