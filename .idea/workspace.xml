@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="88761fd3-cd86-4a20-a56a-27b9a7779a5f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-09-23-kruskal-algorithm-master.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-09-23-kruskal-algorithm-master.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-09-23-prime-algorithm-master.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-09-23-prime-algorithm-master.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,28 +65,7 @@
       <workItem from="1599551075169" duration="590000" />
       <workItem from="1599966045336" duration="1242000" />
       <workItem from="1600694555313" duration="627000" />
-      <workItem from="1600780063990" duration="2057000" />
-    </task>
-    <task id="LOCAL-00029" summary="init">
-      <created>1598850422175</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1598850422175</updated>
-    </task>
-    <task id="LOCAL-00030" summary="init">
-      <created>1598850538444</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1598850538444</updated>
-    </task>
-    <task id="LOCAL-00031" summary="init">
-      <created>1598851056265</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1598851056265</updated>
+      <workItem from="1600780063990" duration="2469000" />
     </task>
     <task id="LOCAL-00032" summary="init">
       <created>1598854249259</created>
@@ -408,7 +389,28 @@
       <option name="project" value="LOCAL" />
       <updated>1600823499974</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="prim">
+      <created>1600823551327</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1600823551327</updated>
+    </task>
+    <task id="LOCAL-00079" summary="prim">
+      <created>1600823672846</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1600823672846</updated>
+    </task>
+    <task id="LOCAL-00080" summary="prim">
+      <created>1600823749513</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1600823749513</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -447,16 +449,16 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="700" y="322" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1598587632311" />
-    <state x="2200" y="202" key="CommitChangelistDialog2" timestamp="1600823672221">
+    <state x="2200" y="202" key="CommitChangelistDialog2" timestamp="1600823748827">
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state x="539" y="112" key="CommitChangelistDialog2/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1599966670538" />
-    <state x="2200" y="202" key="CommitChangelistDialog2/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1600823672221" />
-    <state x="384" y="148" width="1536" height="861" key="DiffContextDialog" timestamp="1600823664317">
+    <state x="2200" y="202" key="CommitChangelistDialog2/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1600823748827" />
+    <state x="384" y="148" width="1536" height="861" key="DiffContextDialog" timestamp="1600823745743">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="163" y="85" key="DiffContextDialog/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1599182874047" />
-    <state x="384" y="148" width="1536" height="861" key="DiffContextDialog/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1600823664317" />
+    <state x="384" y="148" width="1536" height="861" key="DiffContextDialog/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1600823745743" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1599463519748">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -469,11 +471,11 @@
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state x="2377" y="317" key="RollbackChangesDialog/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1600260376475" />
-    <state x="2184" y="456" key="Vcs.Push.Dialog.v2" timestamp="1600823674001">
+    <state x="2184" y="456" key="Vcs.Push.Dialog.v2" timestamp="1600823751260">
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state x="552" y="252" key="Vcs.Push.Dialog.v2/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1599966673212" />
-    <state x="2184" y="456" key="Vcs.Push.Dialog.v2/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1600823674001" />
+    <state x="2184" y="456" key="Vcs.Push.Dialog.v2/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1600823751260" />
     <state x="2252" y="896" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600823734887">
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>

@@ -82,6 +82,7 @@ keywords: Graph, Kruskal, Classical
 public class KruskalMST{
         public static void main(String[] args) {
         int N = 7;
+        {% raw %} 
         int[][] edges = {{0, 1, 4},
                 {0, 5, 8},
                 {1, 2, 8},
@@ -93,6 +94,7 @@ public class KruskalMST{
                 {4, 6, 6},
                 {5, 6, 7},
         };
+		{% endraw %} 
         KruskalMST kruskal = new KruskalMST(N, edges);
         int mstCost = kruskal.getMstCost();
         System.out.println("最小生成树的权值之和：" + mstCost);
