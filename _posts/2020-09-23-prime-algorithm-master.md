@@ -2,8 +2,8 @@
 layout: post
 title: 一文掌握Prime算法
 categories: Classical
-description: Prim算法
-keywords: Graph, Prim, Classical
+description: Prime算法
+keywords: Graph, Prime, Classical
 ---
 
 ## 一文掌握Prime算法
