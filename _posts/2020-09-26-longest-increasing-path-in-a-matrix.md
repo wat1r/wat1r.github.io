@@ -69,7 +69,7 @@ keywords: DFS, BFS,记忆化
 
 ```java
     int[][] memo;
-    int[][] directions = {{-1, 0}, {0, 1}, {1, 0}, {0, -1}};
+    {% raw %} int[][] directions = {{-1, 0}, {0, 1}, {1, 0}, {0, -1}}; {% endraw %} 
     int m, n;
 
     public int longestIncreasingPath(int[][] matrix) {
