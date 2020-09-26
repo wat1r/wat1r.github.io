@@ -16,7 +16,9 @@ keywords: DFS, BFS
 
 ```java
         int m, n;
+		{% raw %}
         int[][] directions = {{-1, 0}, {0, 1}, {1, 0}, {0, -1}};
+		{% endraw %}
         int[][] dist;//累积距离场，不能用dist其他位置的值来更新，而是需要直接加上和建筑物之间的距离
         int[][] cnt;//某个位置已经计算过的建筑数量
         int buildingCnt = 0;//总的建筑数量
