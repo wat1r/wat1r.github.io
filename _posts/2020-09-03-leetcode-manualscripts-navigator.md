@@ -139,8 +139,15 @@ topmost: true
 |     | 待添加链接 |  | [DFS_BFS之单词接龙]() |  |      |
 | | 待添加链接 |  | [DFS_BFS单词之单词拆分I[Sawfly]]() | | |
 | | 93 |  | [DFS_BFS之复原IP地址[Dragonfly]](https://leetcode-cn.com/problems/restore-ip-addresses/solution/dfs_bfszhi-fu-yuan-ipdi-zhi-dragonfly-by-a-fei-8/) | | |
-| | 待添加链接 |  | [DFS_BFS之钥匙和房间[Grampus]]() | | |
-
+| | 841        | [DFS_BFS之钥匙和房间[Grampus]](https://wat1r.github.io/2020/08/31/keys-and-room/) | [DFS_BFS之钥匙和房间[Grampus]]() | | |
+| | 633 | [DFS_BFS之墙与门[French Bulldog]](https://wat1r.github.io/2020/09/26/walls-and-gate/) |  | | |
+| | 301 | [DFS_BFS之删除无效括号[Labrador]](https://wat1r.github.io/2020/09/25/remove-invalid-parentheses/) |  | | |
+| | 329 | [DFS_BFS之 矩阵中的最长递增路径[Collie]](https://wat1r.github.io/2020/09/26/longest-increasing-path-in-a-matrix/) |  | | |
+| |  | |  | | |
+| |  | |  | | |
+| |  | |  | | |
+| |  | |  | | |
+| |  | |  | | |
 
 
 
