@@ -1,3 +1,10 @@
+---
+layout: post
+title: DFS_BFS之墙与门[French Bulldog]
+categories: BFS_DFS
+description: DFS_BFS之墙与门[French Bulldog]
+keywords: DFS, BFS
+---
 ## DFS_BFS之墙与门[French Bulldog]
 
 ![dog-220302_640](/images/posts/algorithm/dfs_bfs/un-classify/dog-220302_640.jpg)
