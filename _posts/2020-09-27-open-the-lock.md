@@ -3,7 +3,7 @@ layout: post
 title: DFS_BFS之打开转盘锁[Saint Bernard]
 categories: BFS_DFS
 description: DFS_BFS之打开转盘锁[Saint Bernard]
-keywords: DFS, BFS
+keywords: DFS, BFS, 双向BFS
 ---
 
 ## DFS_BFS之打开转盘锁[Saint Bernard]
