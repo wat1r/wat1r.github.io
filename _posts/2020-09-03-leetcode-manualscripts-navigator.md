@@ -25,6 +25,11 @@ topmost: true
 | 8    |         | [一文掌握Prim算法](https://wat1r.github.io/2020/09/23/prim-algorithm-master/) |                                                              | Graph,MST,Model           |      |
 | 9    |         | [一文掌握Kruskal算法](https://wat1r.github.io/2020/09/23/kruskal-algorithm-master/) |                                                              | Graph,MST,Model           |      |
 
+#### 0.2.编码技巧
+
+| #    | 题号 | github.io地址 | 力扣地址 | 关键词 | 备注 |
+| ---- | ---- | ------------- | -------- | ------ | ---- |
+| 1    |      |               |          |        |      |
 
 ### 1.动态规划
 
