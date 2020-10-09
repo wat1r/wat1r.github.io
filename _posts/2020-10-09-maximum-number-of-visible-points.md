@@ -8,7 +8,7 @@ keywords: Sliding Window
 
 ## 双指针大法之滑动窗口解可见点的最大数目[Aoudad]
 
-
+![sheep-1990132_640](/images/posts/algorithm/two_pointers/sheep-1990132_640.png)
 
 ![image-20201009204911388](/images/posts/algorithm/two_pointers/image-20201009204911388.png)
 
