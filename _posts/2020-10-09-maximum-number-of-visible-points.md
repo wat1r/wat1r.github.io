@@ -25,9 +25,11 @@ keywords: Sliding Window
 举例：
 
 ```java
+  {% raw %}
 ponits ={{0,0},{0,2}};
 angle =90;
 location={1,1};
+  {% endraw %}
 ---
 Math.atan2(deltaY, deltaX);
 对于{0,0},  Math.atan2(0-1, 0-1)  套入上图的情况3，得到结果是 arctan(y/x)-π=π/4-π=-3*π/4 = -2.356
