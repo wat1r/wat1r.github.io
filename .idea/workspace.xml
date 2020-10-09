@@ -2,6 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88761fd3-cd86-4a20-a56a-27b9a7779a5f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2020-10-09-maximum-number-of-visible-points.assets/image-20201009201423774.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020-10-09-maximum-number-of-visible-points.assets/image-20201009203811004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020-10-09-maximum-number-of-visible-points.assets/image-20201009204315272.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020-10-09-maximum-number-of-visible-points.assets/image-20201009204911388.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020-10-09-maximum-number-of-visible-points.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/posts/algorithm/two_pointers/image-20201009201423774.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/posts/algorithm/two_pointers/image-20201009203811004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/posts/algorithm/two_pointers/image-20201009204315272.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/posts/algorithm/two_pointers/image-20201009204911388.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,14 +73,9 @@
       <workItem from="1599966045336" duration="1242000" />
       <workItem from="1600694555313" duration="627000" />
       <workItem from="1600780063990" duration="9761000" />
-      <workItem from="1601188531652" duration="5216000" />
-    </task>
-    <task id="LOCAL-00056" summary="navigator">
-      <created>1599111614198</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1599111614198</updated>
+      <workItem from="1601188531652" duration="5831000" />
+      <workItem from="1602205176065" duration="16000" />
+      <workItem from="1602205205470" duration="599000" />
     </task>
     <task id="LOCAL-00057" summary="navigator">
       <created>1599132395217</created>
@@ -409,7 +413,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601343198899</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="773">
+      <created>1601426040347</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1601426040347</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -449,18 +460,19 @@
     <MESSAGE value="752" />
     <MESSAGE value="127" />
     <MESSAGE value="skill" />
-    <option name="LAST_COMMIT_MESSAGE" value="skill" />
+    <MESSAGE value="773" />
+    <option name="LAST_COMMIT_MESSAGE" value="773" />
   </component>
   <component name="WindowStateProjectService">
     <state x="700" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598587632311">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="700" y="322" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1598587632311" />
-    <state x="2200" y="202" key="CommitChangelistDialog2" timestamp="1601343198154">
+    <state x="2200" y="202" key="CommitChangelistDialog2" timestamp="1601426039144">
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state x="539" y="112" key="CommitChangelistDialog2/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1599966670538" />
-    <state x="2200" y="202" key="CommitChangelistDialog2/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1601343198154" />
+    <state x="2200" y="202" key="CommitChangelistDialog2/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1601426039144" />
     <state x="384" y="148" width="1536" height="861" key="DiffContextDialog" timestamp="1600823745743">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -478,11 +490,11 @@
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state x="2377" y="317" key="RollbackChangesDialog/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1600260376475" />
-    <state x="2184" y="456" key="Vcs.Push.Dialog.v2" timestamp="1601343200065">
+    <state x="2184" y="456" key="Vcs.Push.Dialog.v2" timestamp="1601426042366">
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state x="552" y="252" key="Vcs.Push.Dialog.v2/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1599966673212" />
-    <state x="2184" y="456" key="Vcs.Push.Dialog.v2/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1601343200065" />
+    <state x="2184" y="456" key="Vcs.Push.Dialog.v2/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1601426042366" />
     <state x="2252" y="896" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600823734887">
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
