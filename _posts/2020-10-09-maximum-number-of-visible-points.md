@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 双指针大法之滑动窗口解可见点的最大数目[Aoudad]
-categories: Two Poniters
+categories: Two_Poniters
 description: 双指针大法之滑动窗口解可见点的最大数目[Aoudad]
 keywords: Sliding Window
 ---
