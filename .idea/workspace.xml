@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88761fd3-cd86-4a20-a56a-27b9a7779a5f" name="Default Changelist" comment="210 weekly">
-      <change afterPath="$PROJECT_DIR$/_posts/2020-10-14-bit-operate-handbook.assets/image-20201012091442282.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2020-10-14-bit-operate-handbook.md" afterDir="false" />
+    <list default="true" id="88761fd3-cd86-4a20-a56a-27b9a7779a5f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-10-14-bit-operate-handbook.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-10-14-bit-operate-handbook.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,14 +67,7 @@
       <workItem from="1600780063990" duration="9761000" />
       <workItem from="1601188531652" duration="5831000" />
       <workItem from="1602205176065" duration="16000" />
-      <workItem from="1602205205470" duration="4326000" />
-    </task>
-    <task id="LOCAL-00064" summary="LRU">
-      <created>1599966068111</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1599966068111</updated>
+      <workItem from="1602205205470" duration="4941000" />
     </task>
     <task id="LOCAL-00065" summary="368">
       <created>1599966186493</created>
@@ -413,7 +405,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602406188780</updated>
     </task>
-    <option name="localTasksCounter" value="113" />
+    <task id="LOCAL-00113" summary="bit operation">
+      <created>1602639291637</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1602639291638</updated>
+    </task>
+    <option name="localTasksCounter" value="114" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -456,18 +455,19 @@
     <MESSAGE value="773" />
     <MESSAGE value="1610" />
     <MESSAGE value="210 weekly" />
-    <option name="LAST_COMMIT_MESSAGE" value="210 weekly" />
+    <MESSAGE value="bit operation" />
+    <option name="LAST_COMMIT_MESSAGE" value="bit operation" />
   </component>
   <component name="WindowStateProjectService">
     <state x="700" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598587632311">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="700" y="322" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1598587632311" />
-    <state x="2180" y="202" key="CommitChangelistDialog2" timestamp="1602639276320">
+    <state x="2180" y="202" key="CommitChangelistDialog2" timestamp="1602639290548">
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state x="539" y="112" key="CommitChangelistDialog2/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1599966670538" />
-    <state x="2180" y="202" key="CommitChangelistDialog2/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1602639276320" />
+    <state x="2180" y="202" key="CommitChangelistDialog2/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1602639290548" />
     <state x="384" y="148" width="1536" height="861" key="DiffContextDialog" timestamp="1600823745743">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -485,11 +485,11 @@
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state x="2377" y="317" key="RollbackChangesDialog/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1600260376475" />
-    <state x="2184" y="456" key="Vcs.Push.Dialog.v2" timestamp="1602406189984">
+    <state x="2184" y="456" key="Vcs.Push.Dialog.v2" timestamp="1602639292966">
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state x="552" y="252" key="Vcs.Push.Dialog.v2/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1599966673212" />
-    <state x="2184" y="456" key="Vcs.Push.Dialog.v2/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1602406189984" />
+    <state x="2184" y="456" key="Vcs.Push.Dialog.v2/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1602639292966" />
     <state x="2252" y="896" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600823734887">
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
