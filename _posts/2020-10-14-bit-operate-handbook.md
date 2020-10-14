@@ -3,7 +3,7 @@ layout: post
 title: 位运算操作常见技巧
 categories: Skill
 description: 位运算操作常见技巧
-keywords: 为运算，状态压缩
+keywords: 位运算，状态压缩
 ---
 
 ## 位运算操作常见技巧
