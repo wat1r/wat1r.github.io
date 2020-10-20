@@ -138,14 +138,14 @@ keywords: Skill
             for (int i = 0; i < ((E + 1) << 1); i++) {
                 edge[i] = new Edge(0, 0);
             }
-            { % raw %}
+            {% raw %}
             int[][] arr = {{1, 2},
                     {2, 3},
                     {2, 5},
                     {3, 5},
                     {5, 1},
                     {5, 4}};
-            { % endraw %}
+            {% endraw %}
             for (int i = 0; i < E; i++) {
                 addEdge(arr[i][0], arr[i][1]);
                 addEdge(arr[i][1], arr[i][0]);
@@ -237,14 +237,14 @@ keywords: Skill
             for (int i = 0; i < (E + 1); i++) {
                 edge[i] = new Edge(0, 0, 0);
             }
-            { % raw %}
+            {% raw  %}
             int[][] arr = {{1, 2, 7},
                     {2, 3, 8},
                     {2, 5, 9},
                     {3, 5, 10},
                     {5, 1, 11},
                     {5, 4, 12}};
-            { % endraw %}
+            {% endraw %}
             for (int i = 0; i < E; i++) {
                 addEdge(arr[i][0], arr[i][1], arr[i][2]);
             }
@@ -329,14 +329,14 @@ static class Adj4 {
         for (int i = 0; i < (E + 1) << 1; i++) {
             edge[i] = new Edge(0, 0, 0);
         }
-        { % raw %}
+        {% raw %}
         int[][] arr = {{1, 2, 7},
                 {2, 3, 8},
                 {2, 5, 9},
                 {3, 5, 10},
                 {5, 1, 11},
                 {5, 4, 12}};
-        { % endraw %}
+        {% endraw %}
         for (int i = 0; i < E; i++) {
             addEdge(arr[i][0], arr[i][1], arr[i][2]);
             addEdge(arr[i][1], arr[i][0], arr[i][2]);
