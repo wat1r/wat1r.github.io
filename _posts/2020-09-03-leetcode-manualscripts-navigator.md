@@ -124,6 +124,7 @@ topmost: true
 | 1    | 112 |               | [路径问题之路径总和I[Tricolor Squirrel]](https://leetcode-cn.com/problems/path-sum/solution/lu-jing-wen-ti-zhi-lu-jing-zong-he-itricolor-squir/) |    |      |
 | 2 | 113/437 |               | [路径问题之路径总和II[Snow Squirrels]](https://leetcode-cn.com/problems/path-sum-iii/solution/lu-jing-wen-ti-zhi-lu-jing-zong-he-iisnow-squirrel/) |  |      |
 | 3 | 980 |               | [路径之不同路径II[Red Squirrel]](https://leetcode-cn.com/problems/unique-paths-iii/solution/lu-jing-zhi-bu-tong-lu-jing-iired-squirrel-by-a-fe/) |  |      |
+| 4 | 1631 | | [路径问题之最小体力消耗路径[Patinopecten Squirrel]](https://leetcode-cn.com/problems/path-with-minimum-effort/solution/zui-xiao-ti-li-xiao-hao-lu-jing-by-a-fei-8/) | | |
 
 
 #### 2.4.课程表
