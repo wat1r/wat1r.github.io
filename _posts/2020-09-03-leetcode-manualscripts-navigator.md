@@ -30,6 +30,8 @@ topmost: true
 | #    | 题号 | github.io地址                                                | 力扣地址 | 关键词         | 备注 |
 | ---- | ---- | ------------------------------------------------------------ | -------- | -------------- | ---- |
 | 1    |      | [二维矩阵的常见转换技巧](https://wat1r.github.io/2020/09/29/two-direction-array-skill/) |          | 二维矩阵，转换 |      |
+| 2    |      | [数组模拟邻接表](https://wat1r.github.io/2020/10/20/array-mock-adj/) |          | 邻接表         |      |
+| 3    |      | [位运算操作常见技巧](https://wat1r.github.io/2020/10/14/bit-operate-handbook/) |          | 位运算         |      |
 
 ### 1.动态规划
 
@@ -87,6 +89,24 @@ topmost: true
 | 2 | 1043 |  | [动态规划解分割数组II[Arctic Fox]](https://leetcode-cn.com/problems/partition-array-for-maximum-sum/solution/leetcodebi-ji-java-py-si-ke-yi-dao-ti-1043-fen-ge-/) |      ||
 | 3 |   343|    | [动态规划解拆分整数I[Silver Fox]](https://leetcode-cn.com/problems/integer-break/solution/dong-tai-gui-hua-jie-chai-fen-zheng-shu-isilver-fo)       |||
 
+
+
+#### 1.7.树形DP
+
+| #    | 题号 | github.io地址                                                | 力扣地址 | 关键词     | 备注 |
+| ---- | ---- | ------------------------------------------------------------ | -------- | ---------- | ---- |
+| 1    |      | [区间DP之多边形三角剖分的最低得分[Cuckoo]](https://wat1r.github.io/2020/10/29/minimum-score-triangulation-of-polygon/) |          | 三角形剖分 |      |
+| 2    |      | [树形DP之没有上司的舞会](https://wat1r.github.io/2020/10/20/no-leader-dancing/) |          |            |      |
+
+#### 1.8.状压DP
+
+| #    | 题号 | github.io地址                                                | 力扣地址 | 关键词   | 备注 |
+| ---- | ---- | ------------------------------------------------------------ | -------- | -------- | ---- |
+| 1    |      | [状态压缩DP之最短Hamilton路径](https://wat1r.github.io/2020/10/14/shortest-hamilton-path/) |          | Hamilton |      |
+|      |      |                                                              |          |          |      |
+
+
+
 #### 1.20.UnClassify
 
 | #    | 题号 | github.io地址                                                | 力扣地址                                                     | 关键词 | 备注 |
@@ -140,12 +160,12 @@ topmost: true
 
 #### 2.5.图
 
-| #    | 题号 | github.io地址 | 力扣地址                                                     | 关键词 | 备注 |
-| ---- | ---- | ------------- | ------------------------------------------------------------ | ------ | ---- |
-| 1    | 1615 |               | [桃园三兄秩之最大网络秩](https://leetcode-cn.com/problems/maximal-network-rank/solution/tao-yuan-san-xiong-zhi-zhi-zui-da-wang-luo-zhi-by-/) |        |      |
-|      |      |               |                                                              |        |      |
-|      |      |               |                                                              |        |      |
-|      |      |               |                                                              |        |      |
+| #    | 题号 | github.io地址                                                | 力扣地址                                                     | 关键词 | 备注 |
+| ---- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ | ---- |
+| 1    | 1615 |                                                              | [桃园三兄秩之最大网络秩](https://leetcode-cn.com/problems/maximal-network-rank/solution/tao-yuan-san-xiong-zhi-zhi-zui-da-wang-luo-zhi-by-/) |        |      |
+|      | 1162 | [图问题之地图分析[Apis Cerana]](https://wat1r.github.io/2020/08/27/as-far-from-land-as-possible/) |                                                              |        |      |
+|      |      |                                                              |                                                              |        |      |
+|      |      |                                                              |                                                              |        |      |
 
 
 
@@ -163,8 +183,8 @@ topmost: true
 | | 301 | [DFS_BFS之删除无效括号[Labrador]](https://wat1r.github.io/2020/09/25/remove-invalid-parentheses/) |  | | |
 | | 329 | [DFS_BFS之 矩阵中的最长递增路径[Collie]](https://wat1r.github.io/2020/09/26/longest-increasing-path-in-a-matrix/) |  | | |
 | | 752 | [DFS_BFS之打开转盘锁[Saint Bernard]](https://wat1r.github.io/2020/09/27/open-the-lock/) |  | 双向BFS | |
-| |  | |  | | |
-| |  | |  | | |
+| | 773 | [DFS_BFS之滑动谜题[Shiba Inu]](https://wat1r.github.io/2020/09/30/sliding-puzzle/) |  | | |
+| |  | [DFS_BFS之建筑物之间的最短距离[Dachshund]](https://wat1r.github.io/2020/09/26/shortest-distance-from-all-buildings/) |  | | |
 | |  | |  | | |
 | |  | |  | | |
 
@@ -188,6 +208,8 @@ topmost: true
 | 6 | 15  |  | [双指针解三数之和[Takin]](https://leetcode-cn.com/problems/3sum/solution/shuang-zhi-zhen-jie-san-shu-zhi-he-takin-by-a-fei-/) |      ||
 | 7 | 18/454 |   | [双指针解四数之和[Topi]](https://leetcode-cn.com/problems/4sum-ii/solution/shuang-zhi-zhen-jie-si-shu-zhi-he-topi-by-a-fei-8/) |      ||
 | 8 | 43 |   | [双指针解字符串相乘[Oryx] ](https://leetcode-cn.com/problems/multiply-strings/solution/shuang-zhi-zhen-jie-zi-fu-chuan-xiang-cheng-oryx-b/) |      ||
+| 9 | 1610 | [双指针大法之滑动窗口解可见点的最大数目[Aoudad]](https://wat1r.github.io/2020/10/09/maximum-number-of-visible-points/) |  | ||
+| 10 | 1423 | | [双指针解可获得的最大点数[Tahr]](https://leetcode-cn.com/problems/maximum-points-you-can-obtain-from-cards/solution/shuang-zhi-zhen-jie-ke-huo-de-de-zui-da-dian-shu-t/) | ||
 
 ### 4.数据结构设计
 
